@@ -8,3 +8,4 @@ Water+Lava=Stone
 Bird+Shit=Guano
 Love+Bird=Lovebird
 Love+Shit=Situationship
+Love+Fire=Affectionate
